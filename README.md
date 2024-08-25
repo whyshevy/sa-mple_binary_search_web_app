@@ -1,1 +1,1 @@
-# sa-mple_binary_search_web_app
+# sample_binary_search_web_app
